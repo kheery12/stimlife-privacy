@@ -18,7 +18,7 @@ StimLife stores all data on your device. We do not collect, transmit, sell, or s
 
 ## 1. Who We Are
 
-StimLife is developed and published by Kyle Heery. You can contact us at: [your-support-email@example.com]
+StimLife is developed and published by Kyle Heery. You can contact us at: ballknowersupport@gmail.com
 
 ---
 
@@ -143,7 +143,7 @@ If we make material changes to this policy, we will update the "Last updated" da
 If you have questions about this privacy policy, contact us at:
 
 **Kyle Heery**
-Email: [your-support-email@example.com]
+Email: ballknowersupport@gmail.com
 
 ---
 
